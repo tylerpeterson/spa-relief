@@ -4,7 +4,6 @@
   "description": "Experimental approach to migration away from an SPA when on modern browsers that support push-state.",
   "main": "app.js",
   "scripts": {
-    "test": "npm test"
   },
   "repository": {
     "type": "git",
@@ -17,6 +16,4 @@
   },
   "homepage": "https://github.com/tylerpeterson/spa-relief",
   "dependencies": {
-    "express": "^4.12.4"
   }
-}
