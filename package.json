@@ -1,0 +1,22 @@
+{
+  "name": "spa-relief",
+  "version": "1.0.0",
+  "description": "Experimental approach to migration away from an SPA when on modern browsers that support push-state.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tylerpeterson/spa-relief.git"
+  },
+  "author": "Tyler Peterson <ty@managerjs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tylerpeterson/spa-relief/issues"
+  },
+  "homepage": "https://github.com/tylerpeterson/spa-relief",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
